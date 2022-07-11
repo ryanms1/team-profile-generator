@@ -1,5 +1,8 @@
 # Team Profile Generator
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+  
+  [Untitled_ Jul 11, 2022 4_34 PM.webm](https://user-images.githubusercontent.com/101146873/178376992-e04960ed-a960-419d-bf02-3e6bd15530c2.webm)
+
 
   ## Description
 
